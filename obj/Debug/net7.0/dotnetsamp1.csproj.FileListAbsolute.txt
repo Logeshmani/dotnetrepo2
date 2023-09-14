@@ -1,0 +1,5 @@
+D:\SKV\Codes\Assessment\Group Task\obj\Debug\net7.0\dotnetsamp1.csproj.AssemblyReference.cache
+D:\SKV\Codes\Assessment\Group Task\obj\Debug\net7.0\dotnetsamp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SKV\Codes\Assessment\Group Task\obj\Debug\net7.0\dotnetsamp1.AssemblyInfoInputs.cache
+D:\SKV\Codes\Assessment\Group Task\obj\Debug\net7.0\dotnetsamp1.AssemblyInfo.cs
+D:\SKV\Codes\Assessment\Group Task\obj\Debug\net7.0\dotnetsamp1.csproj.CoreCompileInputs.cache
