@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kavin.senthil\\Desktop\\Kavin Praksh -11992\\dotnetrepo2\\dotnetsamp1.csproj": {}
+    "d:\\11994\\dotnetrepo2\\dotnetsamp1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kavin.senthil\\Desktop\\Kavin Praksh -11992\\dotnetrepo2\\dotnetsamp1.csproj": {
+    "d:\\11994\\dotnetrepo2\\dotnetsamp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kavin.senthil\\Desktop\\Kavin Praksh -11992\\dotnetrepo2\\dotnetsamp1.csproj",
+        "projectUniqueName": "d:\\11994\\dotnetrepo2\\dotnetsamp1.csproj",
         "projectName": "dotnetsamp1",
-        "projectPath": "c:\\Users\\kavin.senthil\\Desktop\\Kavin Praksh -11992\\dotnetrepo2\\dotnetsamp1.csproj",
-        "packagesPath": "C:\\Users\\kavin.senthil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kavin.senthil\\Desktop\\Kavin Praksh -11992\\dotnetrepo2\\obj\\",
+        "projectPath": "d:\\11994\\dotnetrepo2\\dotnetsamp1.csproj",
+        "packagesPath": "C:\\Users\\keerthivasan.k\\.nuget\\packages\\",
+        "outputPath": "d:\\11994\\dotnetrepo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kavin.senthil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\keerthivasan.k\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

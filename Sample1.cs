@@ -7,11 +7,12 @@
     private static void Main(string[] args)
     {
         Console.WriteLine("11992-Kavin Prakash"); //changes by 11992-kavin prakash
+        Console.WriteLine("11994-keerthivasan");
         Console.Write("Enter a number : ");
         int n = Convert.ToInt32(Console.ReadLine());
-       // if(n ){
-        //     Console.WriteLine("The number is _____");
-        // }
+       if(n % 2==0 ){//changes done by keerthivasan
+            Console.WriteLine("The number is _____");
+        }
         //     else
         //     {
         //         Console.WriteLine("The number is _____");
