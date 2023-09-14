@@ -6,6 +6,7 @@
     // Complete the program and push into Github and Bitbucket
     private static void Main(string[] args)
     {
+        Console.WriteLine("11992-Kavin Prakash"); //changes by 11992-kavin prakash
         Console.Write("Enter a number : ");
         int n = Convert.ToInt32(Console.ReadLine());
        // if(n ){

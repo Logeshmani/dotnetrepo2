@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\logeshwaran.mani\\.nuget\\packages\\": {}
+    "C:\\Users\\kavin.senthil\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj",
+      "projectUniqueName": "c:\\Users\\kavin.senthil\\Desktop\\Kavin Praksh -11992\\dotnetrepo2\\dotnetsamp1.csproj",
       "projectName": "dotnetsamp1",
-      "projectPath": "D:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj",
-      "packagesPath": "C:\\Users\\logeshwaran.mani\\.nuget\\packages\\",
-      "outputPath": "D:\\Relevantz\\dotnetsamp1\\obj\\",
+      "projectPath": "c:\\Users\\kavin.senthil\\Desktop\\Kavin Praksh -11992\\dotnetrepo2\\dotnetsamp1.csproj",
+      "packagesPath": "C:\\Users\\kavin.senthil\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\kavin.senthil\\Desktop\\Kavin Praksh -11992\\dotnetrepo2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\logeshwaran.mani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kavin.senthil\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
